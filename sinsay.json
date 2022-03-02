@@ -7,10 +7,10 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "086a5330df503551860",
-	"APPLOVIN_INTERSTITIAL_ID": "6eced1c42066687f23e9",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"6eced465D1c4207f23e9",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_BANNER_ID": "a796eee65d58516e",
+	"APPLOVIN_INTERSTITIAL_ID": "e478526641441ad2",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"e478526641441ad2",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -29,8 +29,8 @@
 	"Interval_Time":60000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
